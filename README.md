@@ -6,10 +6,10 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Contate-me no email: italoiveldoluiz@gmail.com
 
-<div align="center">
+<div align="center" >
   <a href="https://github.com/italoO13">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=italoO13&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italoO13&layout=compact&langs_count=7&theme=dark"/>
+  <img style="display: inline_block" width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=italoO13&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img style="display: inline_block" width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italoO13&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
   <div style="display: inline_block"><br>
@@ -27,7 +27,5 @@ Here are some ideas to get you started:
   <a href="https://instagram.com/italoiveldo1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:italoiveldoluiz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/italoiveldo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-  
-![Snake animation](https://github.com/italoO13/italoO13/blob/output/github-contribution-grid-snake.svg)
+
 </div>
