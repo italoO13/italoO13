@@ -38,13 +38,13 @@ Here are some ideas to get you started:
       <h3 align="left">Suas Despesas</h3>
       <p><a href="https://glittering-syrniki-ae0340.netlify.app">Project preview</a>, <a href="https://github.com/italoO13/Suas-Despesas">Repository</a></p>
        <p>React, Redux, Jest and RTL</p>
-      <a href="https://glittering-syrniki-ae0340.netlify.app"><img width=400px src="./imgs/trybeWallet.png" alt="Project-preview" /></a>
+      <a href="https://glittering-syrniki-ae0340.netlify.app"><img width=400px height=200px src="./imgs/trybeWallet.png" alt="Project-preview" /></a>
     </td>
     <td valign="top">
-      <h3 align="left">React Tunes</h3>
-      <p><a href="https://fkrein1.github.io/react-tunes/">GitHub Page</a>, <a href="https://github.com/fkrein1/react-tunes">Repository</a></p>
+      <h3 align="left">TrybeTunes</h3>
+      <p><a href="https://github.com/italoO13/trybeTunes">Project preview</a>, <a href="https://imaginative-frangollo-b70959.netlify.app">Repository</a></p>
       <p>React and React Router</p>
-      <a href="https://fkrein1.github.io/react-tunes/"><img width=400px src="./images/react-tunes.jpg" alt="Project-preview" /></a>
+      <a href="https://imaginative-frangollo-b70959.netlify.app"><img width=400px height=200px src="./imgs/trybetunes.png" alt="Project-preview" /></a>
     </td>
         <!--  <td valign="top">
       <h3 align="left">Business Landing Page</h3>
