@@ -35,10 +35,10 @@ Here are some ideas to get you started:
   
   <tr>
      <td valign="top">
-      <h3 align="left">Travel Wallet</h3>
-      <p><a href="https://fkrein1.github.io/travel-wallet/">GitHub Page</a>, <a href="https://github.com/fkrein1/travel-wallet">Repository</a></p>
+      <h3 align="left">Suas Despesas</h3>
+      <p><a href="https://glittering-syrniki-ae0340.netlify.app">Project preview</a>, <a href="https://github.com/italoO13/Suas-Despesas">Repository</a></p>
        <p>React, Redux, Jest and RTL</p>
-      <a href="https://fkrein1.github.io/travel-wallet/"><img width=400px src="./images/travel-wallet.png" alt="Project-preview" /></a>
+      <a href="https://glittering-syrniki-ae0340.netlify.app"><img width=400px src="./imgs/trybeWallet.png" alt="Project-preview" /></a>
     </td>
      <td valign="top">
       <h3 align="left">React Tunes</h3>
