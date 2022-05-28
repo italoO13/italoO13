@@ -40,7 +40,7 @@ Here are some ideas to get you started:
        <p>React, Redux, Jest and RTL</p>
       <a href="https://glittering-syrniki-ae0340.netlify.app"><img width=400px src="./imgs/trybeWallet.png" alt="Project-preview" /></a>
     </td>
-     <td valign="top">
+     <!-- <td valign="top">
       <h3 align="left">React Tunes</h3>
       <p><a href="https://fkrein1.github.io/react-tunes/">GitHub Page</a>, <a href="https://github.com/fkrein1/react-tunes">Repository</a></p>
       <p>React and React Router</p>
@@ -51,7 +51,7 @@ Here are some ideas to get you started:
       <p><a href="https://fkrein1.github.io/business-landing-page/">GitHub Page</a>, <a href="https://github.com/fkrein1/business-landing-page">Repository</a></p>
       <p>CSS, HTML and JavaScript</p>
       <a href="https://fkrein1.github.io/business-landing-page/"><img width=400px src="./images/simple-landing-page.png" alt="Project-preview" /></a>
-    </td>
+    </td> -->
   </tr>
   <tr>
      <td valign="top">
@@ -66,3 +66,6 @@ Here are some ideas to get you started:
       <p>CSS, HTML and JavaScript</p>
       <a href="https://fkrein1.github.io/pixel-art/"><img width=400px src="./images/pixel-art.png" alt="Project-preview" /></a>
     </td>
+  </tr>
+  
+</table>
