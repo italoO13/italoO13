@@ -38,19 +38,19 @@ Here are some ideas to get you started:
       <h3 align="left">Suas Despesas</h3>
       <p><a href="https://glittering-syrniki-ae0340.netlify.app">Project preview</a>, <a href="https://github.com/italoO13/Suas-Despesas">Repository</a></p>
        <p>React, Redux, Jest and RTL</p>
-      <a href="https://glittering-syrniki-ae0340.netlify.app"><img width=400px height=200px src="./imgs/trybeWallet.png" alt="Project-preview" /></a>
+      <a href="https://glittering-syrniki-ae0340.netlify.app"><img width=400px height=150px src="./imgs/trybeWallet.png" alt="Project-preview" /></a>
     </td>
     <td valign="top">
       <h3 align="left">TrybeTunes</h3>
       <p><a href="https://imaginative-frangollo-b70959.netlify.app">Project preview</a>, <a href="https://github.com/italoO13/trybeTunes">Repository</a></p>
       <p>React and React Router</p>
-      <a href="https://imaginative-frangollo-b70959.netlify.app"><img width=400px height=200px src="./imgs/trybetunes.png" alt="Project-preview" /></a>
+      <a href="https://imaginative-frangollo-b70959.netlify.app"><img width=400px height=150px src="./imgs/trybetunes.png" alt="Project-preview" /></a>
     </td>
     <td valign="top">
       <h3 align="left">Site Psicologia</h3>
       <p><a href="https://reverent-lovelace-b32230.netlify.app/">Project preview</a>, <a href="https://github.com/italoO13/site-psi">Repository</a></p>
       <p>CSS, HTML and JavaScript</p>
-      <a href="https://reverent-lovelace-b32230.netlify.app"><img width=400px src="./images/simple-landing-page.png" alt="Project-preview" /></a>
+      <a href="https://reverent-lovelace-b32230.netlify.app"><img width=400px height=150px src="./imgs/sitePsi.png" alt="Project-preview" /></a>
     </td>
   </tr>
   <!-- <tr>
