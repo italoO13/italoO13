@@ -46,12 +46,12 @@ Here are some ideas to get you started:
       <p>React and React Router</p>
       <a href="https://imaginative-frangollo-b70959.netlify.app"><img width=400px height=200px src="./imgs/trybetunes.png" alt="Project-preview" /></a>
     </td>
-        <!--  <td valign="top">
-      <h3 align="left">Business Landing Page</h3>
-      <p><a href="https://fkrein1.github.io/business-landing-page/">GitHub Page</a>, <a href="https://github.com/fkrein1/business-landing-page">Repository</a></p>
+    <td valign="top">
+      <h3 align="left">Site Psicologia</h3>
+      <p><a href="https://reverent-lovelace-b32230.netlify.app/">Project preview</a>, <a href="https://github.com/italoO13/site-psi">Repository</a></p>
       <p>CSS, HTML and JavaScript</p>
-      <a href="https://fkrein1.github.io/business-landing-page/"><img width=400px src="./images/simple-landing-page.png" alt="Project-preview" /></a>
-    </td> -->
+      <a href="https://reverent-lovelace-b32230.netlify.app"><img width=400px src="./images/simple-landing-page.png" alt="Project-preview" /></a>
+    </td>
   </tr>
   <!-- <tr>
      <td valign="top">
