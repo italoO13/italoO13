@@ -42,7 +42,7 @@ Here are some ideas to get you started:
     </td>
     <td valign="top">
       <h3 align="left">TrybeTunes</h3>
-      <p><a href="https://github.com/italoO13/trybeTunes">Project preview</a>, <a href="https://imaginative-frangollo-b70959.netlify.app">Repository</a></p>
+      <p><a href="https://imaginative-frangollo-b70959.netlify.app">Project preview</a>, <a href="https://github.com/italoO13/trybeTunes">Repository</a></p>
       <p>React and React Router</p>
       <a href="https://imaginative-frangollo-b70959.netlify.app"><img width=400px height=200px src="./imgs/trybetunes.png" alt="Project-preview" /></a>
     </td>
