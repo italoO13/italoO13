@@ -53,19 +53,19 @@ Here are some ideas to get you started:
       <a href="https://reverent-lovelace-b32230.netlify.app"><img width=400px height=150px src="./imgs/sitePsi.png" alt="Project-preview" /></a>
     </td>
   </tr>
-  <!-- <tr>
+  <tr>
      <td valign="top">
-      <h3 align="left">Try Series</h3>
-      <p><a href="https://fkrein1.github.io/try-series/">GitHub Page</a>, <a href="https://github.com/fkrein1/try-series">Repository</a></p>
-      <p>CSS, HTML and JavaScript</p>
-      <a href="https://fkrein1.github.io/try-series/"><img width=400px src="./images/try-series.png" alt="Project-preview" /></a>
+      <h3 align="left">Trivia Quiz</h3>
+      <p><a href="https://project-trivia-quiz.netlify.app/">Project preview</a>, <a href="https://github.com/italoO13/trivia-quiz">Repository</a></p>
+      <p>React, Firebase, Sass, Trabalho em Equipe, Redux</p>
+      <a href="https://project-trivia-quiz.netlify.app/"><img width=400px height=150px src="./imgs/trivia.png" alt="Project-preview" /></a>
     </td>    
-     <td valign="top">
+     <!-- <td valign="top">
       <h3 align="left">Pixel Art</h3>
-      <p><a href="https://fkrein1.github.io/pixel-art/">GitHub Page</a>, <a href="https://github.com/fkrein1/pixel-art">Repository</a></p>
+      <p><a href="">GitHub Page</a>, <a href="">Repository</a></p>
       <p>CSS, HTML and JavaScript</p>
-      <a href="https://fkrein1.github.io/pixel-art/"><img width=400px src="./images/pixel-art.png" alt="Project-preview" /></a>
-    </td>
-  </tr> -->
+      <a href=""><img width=400px src="./images/pixel-art.png" alt="Project-preview" /></a>
+    </td> -->
+  </tr>
   
 </table>
