@@ -62,12 +62,12 @@ Here are some ideas to get you started:
       <p>React, Firebase, Sass, Trabalho em Equipe, Redux</p>
       <a href="https://project-trivia-quiz.netlify.app/"><img width=400px height=150px src="./imgs/trivia.png" alt="Project-preview" /></a>
     </td>    
-     <!-- <td valign="top">
-      <h3 align="left">Pixel Art</h3>
-      <p><a href="">GitHub Page</a>, <a href="">Repository</a></p>
-      <p>CSS, HTML and JavaScript</p>
-      <a href=""><img width=400px src="./images/pixel-art.png" alt="Project-preview" /></a>
-    </td> -->
+     <td valign="top">
+      <h3 align="left">Pokedex com RTL</h3>
+      <p><span>Project preview</span>, <a href="https://github.com/italoO13/RLT-com-pokemon">Repository</a></p>
+      <p>React testing Library</p>
+      <a href=""><img width=400px height=150px src="./imgs/react-testing-library.png" alt="Project-preview" /></a>
+    </td>
   </tr>
   
 </table>
