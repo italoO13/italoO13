@@ -66,7 +66,7 @@ Here are some ideas to get you started:
       <h3 align="left">Pokedex com RTL</h3>
       <p><span>Project preview</span>, <a href="https://github.com/italoO13/RLT-com-pokemon">Repository</a></p>
       <p>React testing Library</p>
-      <a href=""><img width=400px height=150px src="./imgs/react-testing-library.png" alt="Project-preview" /></a>
+      <a href="https://github.com/italoO13/RLT-com-pokemon"><img width=400px height=150px src="./imgs/react-testing-library.png" alt="Project-preview" /></a>
     </td>
   </tr>
   
