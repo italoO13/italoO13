@@ -70,7 +70,8 @@ Here are some ideas to get you started:
     </td>
     <td valign="top">
       <h3 align="left">Filtro Planetas Starwars</h3>
-      <p><span>Project preview</span>, <a href="https://github.com/italoO13/PlanetasStarwars">Repository</a></p>
+      <p><a href="https://startwarsfilterplanets.netlify.app/">Project preview</a>,
+      <a href="https://github.com/italoO13/PlanetasStarwars">Repository</a></p>
       <p>React, Styled Components</p>
       <a href="https://startwarsfilterplanets.netlify.app/"><img width=400px height=150px src="./imgs/reviewApplication.png" alt="Project-preview" /></a>
     </td>
