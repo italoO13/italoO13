@@ -1,9 +1,16 @@
 ### Olá! Eu me chamo Italo Iveldo 👋
 
+Olá tudo bem ? Me chamo Ítalo, atualmente estudo desenvolvimento web na trybe. Já atuei como estagiário, consultor e gerente de projetos. Em todas as minhas vivências anteriores tive um 'pezinho' na t.i e isso me fez gostar da área e embarcar nessa nova jornada onde busco meu primeiro emprego como desenvolvedor Web.
+
+Já desenvolvi projetos com:
+-JavaScript, jest, html e CSS ; 
+-React , Redux, hooks RTL e ContextAPI, Firebase
+-Trabalho em equipe utilizando versionamento de código no git
+-Linux
+
 Here are some ideas to get you started:
 
-- 🌱 Estudando Hooks ...
-- 🤔 I’m looking for help with ...
+- 🌱 Estudando Node ...
 - 💬 Contate-me no email: italoiveldoluiz@gmail.com
 
 <div align="center" >
