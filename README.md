@@ -4,12 +4,11 @@ Atualmente estudo desenvolvimento web na trybe. Já atuei como estagiário, cons
 
 Já desenvolvi projetos com:
 - JavaScript, jest, html e CSS ; 
-- React , Redux, hooks RTL e ContextAPI, Firebase
+- React , Node, Redux, hooks RTL e ContextAPI, Firebase
 - Trabalho em equipe utilizando versionamento de código no git
 - Linux
 
-- 🌱 Estudando Node ...
-- 💬 Contate-me no email: italoiveldoluiz@gmail.com
+💬 Contate-me no email: italoiveldoluiz@gmail.com
 
 <div align="center" >
   <a href="https://github.com/italoO13">
@@ -35,13 +34,13 @@ Já desenvolvi projetos com:
       <td valign="top">
       <h3 align="left">Sistem RH</h3>
       <p><a href="https://crud1-4d41d.web.app/">Project preview</a>, <a href="https://github.com/italoO13/System-RH">Repository</a></p>
-      <p>CSS, HTML and JavaScript</p>
+      <p>React, Firebase, </p>
       <a href="https://crud1-4d41d.web.app/"><img width=400px height=150px src="./imgs/systemRH.png" alt="Project-preview" /></a>
     </td>
      <td valign="top">
       <h3 align="left">Suas Despesas</h3>
       <p><a href="https://glittering-syrniki-ae0340.netlify.app">Project preview</a>, <a href="https://github.com/italoO13/Suas-Despesas">Repository</a></p>
-       <p>React, Redux, Jest and RTL</p>
+       <p>React, Redux, Jest e RTL</p>
       <a href="https://glittering-syrniki-ae0340.netlify.app"><img width=400px height=150px src="./imgs/trybeWallet.png" alt="Project-preview" /></a>
     </td>
     <td valign="top">
