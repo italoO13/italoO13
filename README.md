@@ -6,22 +6,20 @@
 
 ###
 
-No momento estudo desenvolvimento web na trybe. Já atuei como estagiário, consultor e gerente de projetos. Em todas as minhas vivências anteriores tive um 'pezinho' na t.i e isso me fez gostar da área e embarcar nessa nova jornada onde busco meu primeiro emprego como desenvolvedor Web.
+Sou desenvolvedor full stack com forte atuação em back end e foco no desenvolvimento de APIs integrações e sistemas escaláveis.
 
-Já desenvolvi projetos com:
-- JavaScript, jest, html e CSS ; 
-- React , Node, Redux, hooks RTL e ContextAPI, Firebase
-- Trabalho em equipe utilizando versionamento de código no git
-- Linux
+Atuo profissionalmente com Node.js NestJS e PHP Laravel trabalhando com mensageria cache e processamento assíncrono utilizando SQS SNS e Redis além de testes automatizados e boas práticas de engenharia de software.
 
- :incoming_envelope: Contate-me no email: italoiveldoluiz@gmail.com
+Tenho experiência com segurança de aplicações incluindo análise de vulnerabilidades em dependências com Snyk correção de falhas como SQL Injection XSS CSRF e melhorias em autenticação e autorização.
 
-<div align="center" >
-  <a href="https://github.com/italoO13">
-  <img style="display: inline_block" width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=italoO13&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img style="display: inline_block" width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italoO13&layout=compact&langs_count=7&theme=dark"/>
-</div>
+Também atuo com Docker CI/CD e ambientes cloud além de desenvolver interfaces com Vue.js e TypeScript para consumo eficiente de APIs.
 
+Aqui você encontrará projetos pessoais e experimentos técnicos focados em aprendizado contínuo arquitetura de software e qualidade de código.
+
+📨 Contato
+Email italoiveldoluiz@gmail.com
+
+LinkedIn https://www.linkedin.com/in/italoiveldo
 
 ## 🔧 Linguagens e Ferramentas
 
